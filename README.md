@@ -6,7 +6,9 @@ Node.js wrapper for calling the geocommons/geocoder Ruby interface
 # Dependencies
 A working ruby installation is required with the json and geocoder/us GEMs installed and available.
 
-For the geocoder/us GEM, follow the build and installation instructions in geocommons/geocoder
+For the geocoder/us GEM, follow the build and installation instructions in geocommons/geocoder.
+
+A database can be built from the TIGER/Line data source as described in geocommons/geocoder. Alternatively, a pre-built database can be found on the VM images for DataScienceToolkit.org (petewarden/dstk).
 
 # API Documentation
 
