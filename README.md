@@ -16,7 +16,7 @@ A database can be built from the TIGER/Line data source as described in [geocomm
 
 Asynchronously parse and geocode `address`.
 ```javascript
-	var geocoder = require('node-geocoder');
+	var geocoder = require('node-geocommons-geocoder');
 	geocoder.geocode("/opt/tiger/geocoder2012.db", "12 Seahawks Way, Renton, WA, 98056", function(err, results) {
 	  if (err) {
 	    console.log(err.message);
