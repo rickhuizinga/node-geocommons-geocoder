@@ -1,0 +1,26 @@
+{
+  "name": "node-geocoder",
+  "version": "0.0.1",
+  "description": "Node.js wrapper for calling the geocommons/geocoder Ruby interface",
+  "main": "node-geocoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickhuizinga/node-geocoder.git"
+  },
+  "keywords": [
+    "geocommons",
+    "geocoder",
+    "node"
+  ],
+  "author": "Rick Huizinga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickhuizinga/node-geocoder/issues"
+  },
+  "devDependencies": {
+    "should": "~3.1.3"
+  }
+}
