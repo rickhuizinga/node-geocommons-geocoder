@@ -1,6 +1,6 @@
 {
   "name": "node-geocommons-geocoder",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Node.js wrapper for calling the geocommons/geocoder Ruby interface",
   "main": "node-geocoder.js",
   "scripts": {
