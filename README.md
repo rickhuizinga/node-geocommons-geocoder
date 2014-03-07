@@ -8,7 +8,7 @@ A working ruby installation is required with the json and geocoder/us GEMs insta
 
 For the geocoder/us GEM, follow the build and installation instructions in [geocommons/geocoder](http://github.com/geocommons/geocoder).
 
-A database can be built from the TIGER/Line data source as described in [geocommons/geocoder](http://github.com/geocommons/geocoder). Alternatively, a pre-built database can be found on the VM images for DataScienceToolkit.org ([petewarden/dstk](http://github.com/petewarden/dstk)).
+A database can be built from the TIGER/Line data source as described in [geocommons/geocoder](http://github.com/geocommons/geocoder). Alternatively, a pre-built database can be found on the VM images for www.DataScienceToolkit.org ([petewarden/dstk](http://github.com/petewarden/dstk)).
 
 # API Documentation
 
