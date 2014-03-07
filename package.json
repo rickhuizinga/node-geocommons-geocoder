@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rickhuizinga/node-geocoder.git"
+    "url": "git://github.com/rickhuizinga/node-geocommons-geocoder.git"
   },
   "keywords": [
     "geocommons",
@@ -18,7 +18,7 @@
   "author": "Rick Huizinga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rickhuizinga/node-geocoder/issues"
+    "url": "https://github.com/rickhuizinga/node-geocommons-geocoder/issues"
   },
   "devDependencies": {
     "should": "~3.1.3"
