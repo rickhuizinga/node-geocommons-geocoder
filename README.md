@@ -20,10 +20,9 @@ Asynchronously parse and geocode `address`.
 	    console.log(err.message);
 	  } else {
 	    console.log(JSON.stringify(results));
-    }
+	  }
 	});
 ```
 Output:
 	
-	[{"precision":"zip","city":"Renton","score":0.603,"fips_county":"53033","lon":-122.186447,"zip":"98056","lat":47
-.514671,"state":"WA"}]
+	[{"precision":"zip","city":"Renton","score":0.603,"fips_county":"53033","lon":-122.186447,"zip":"98056","lat":47.514671,"state":"WA"}]
