@@ -1,5 +1,5 @@
-node-geocoder
-=============
+node-geocommons-geocoder
+========================
 
 Node.js wrapper for calling the [geocommons/geocoder](http://github.com/geocommons/geocoder) Ruby interface 
 
